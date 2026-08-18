@@ -19,7 +19,7 @@
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21296
+            "stars": 21294
           }
         },
         {
@@ -215,7 +215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:01:33.977Z",
+    "last_updated": "2026-08-18T02:57:02.263Z",
     "original_repository": "typedb/typedb-awesome",
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
     "enhanced_repository": "enhansome/typedb-enhansome",
