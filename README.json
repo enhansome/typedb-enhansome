@@ -19,7 +19,7 @@
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21294
+            "stars": 21295
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T11:13:25Z",
             "owner": "typedb",
             "repo": "typedb-studio",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-29T16:20:13Z",
+            "last_commit": "2026-08-18T15:42:07Z",
             "owner": "typedb",
             "repo": "typedb-skills",
             "stars": 12
@@ -215,7 +215,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:57:02.263Z",
+    "last_updated": "2026-08-19T02:58:36.067Z",
     "original_repository": "typedb/typedb-awesome",
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
     "enhanced_repository": "enhansome/typedb-enhansome",
