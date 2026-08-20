@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Want to contribute to the list? Let us know on Discord and open a pull request!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70908208,
             "language": "Python",
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21295
+            "stars": 21296
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 149015524,
             "language": "Python",
             "last_commit": "2023-11-18T17:08:08Z",
             "owner": "typedb",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167981013,
             "language": "TypeScript",
             "last_commit": "2026-08-11T11:13:25Z",
             "owner": "typedb",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435954538,
             "language": "Python",
             "last_commit": "2026-01-08T11:00:29Z",
             "owner": "typedb-osi",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173253271,
             "language": "Kotlin",
             "last_commit": "2026-08-07T09:56:54Z",
             "owner": "sourceplusplus",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256554543,
             "language": "Python",
             "last_commit": "2025-06-02T23:29:55Z",
             "owner": "typedb-osi",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 299246085,
             "language": "Java",
             "last_commit": "2024-03-15T17:33:07Z",
             "owner": "typedb-osi",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598063045,
             "language": "TypeScript",
             "last_commit": "2026-04-25T10:40:25Z",
             "owner": "Blitzapps",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1085407082,
             "language": "Rust",
             "last_commit": "2026-08-11T00:15:44Z",
             "owner": "ds1sqe",
@@ -141,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1273508551,
             "language": null,
             "last_commit": "2026-08-18T15:42:07Z",
             "owner": "typedb",
             "repo": "typedb-skills",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -155,8 +160,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1152639343,
             "language": "Go",
-            "last_commit": "2026-08-12T20:16:56Z",
+            "last_commit": "2026-08-19T09:20:46Z",
             "owner": "CaliLuke",
             "repo": "go-typeql",
             "stars": 4
@@ -166,7 +172,7 @@
       "title": "Open source projects using TypeDB"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365574602,
             "language": null,
             "last_commit": "2025-10-30T16:59:17Z",
             "owner": "typedb-osi",
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 365569922,
             "language": "Kotlin",
             "last_commit": "2026-02-13T20:48:55Z",
             "owner": "typedb-osi",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230282767,
             "language": "Emacs Lisp",
             "last_commit": "2025-08-03T12:41:11Z",
             "owner": "typedb-osi",
@@ -215,8 +224,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:58:36.067Z",
+    "last_updated": "2026-08-20T02:58:31.756Z",
     "original_repository": "typedb/typedb-awesome",
+    "original_repository_id": 321329939,
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
     "enhanced_repository": "enhansome/typedb-enhansome",
     "enhanced_repository_description": null,

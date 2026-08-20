@@ -25,7 +25,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Open source projects using TypeDB
 
-* [`Rasa`](https://github.com/RasaHQ/rasa) ⭐ 21,295 | 🐛 153 | 🌐 Python | 📅 2026-07-24 - Open-source machine learning framework to automate text-and voice-based conversations.
+* [`Rasa`](https://github.com/RasaHQ/rasa) ⭐ 21,296 | 🐛 153 | 🌐 Python | 📅 2026-07-24 - Open-source machine learning framework to automate text-and voice-based conversations.
 * [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) ⚠️ Archived - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
 * [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) ⭐ 232 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-11 - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
 * [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) ⭐ 170 | 🐛 0 | 🌐 Python | 📅 2026-01-08 - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database
@@ -36,8 +36,8 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 * [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) ⭐ 67 | 🐛 13 | 🌐 Java | 📅 2024-03-15 - An open-source data migrator for loading data into TypeDB at scale.
 * [`Blitz-ORM`](https://github.com/Blitzapps/blitz-orm) ⭐ 27 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-25 - Blitz-ORM is an Object Relational Mapper written in TypeScript and compatible with TypeDB.
 * [`TypeBridge`](https://github.com/ds1sqe/type-bridge) ⭐ 23 | 🐛 4 | 🌐 Rust | 📅 2026-08-11 - A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.
-* [`skills`](https://github.com/typedb/typedb-skills) ⭐ 12 | 🐛 0 | 📅 2026-08-18 - A collection of agent skills, including a TypeDB skill for agent workflows.
-* [`go-typeql`](https://github.com/CaliLuke/go-typeql) ⭐ 4 | 🐛 18 | 🌐 Go | 📅 2026-08-12 - A Go ORM for TypeDB 3.x with type-safe CRUD, query building, migrations, and code generation.
+* [`skills`](https://github.com/typedb/typedb-skills) ⭐ 13 | 🐛 0 | 📅 2026-08-18 - A collection of agent skills, including a TypeDB skill for agent workflows.
+* [`go-typeql`](https://github.com/CaliLuke/go-typeql) ⭐ 4 | 🐛 18 | 🌐 Go | 📅 2026-08-19 - A Go ORM for TypeDB 3.x with type-safe CRUD, query building, migrations, and code generation.
 
 ## Conferences
 
@@ -74,7 +74,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Client Drivers (official)
 
-* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 66 | 🐛 78 | 🌐 Rust | 📅 2026-08-14
+* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 66 | 🐛 77 | 🌐 Rust | 📅 2026-08-19
 
 ## Client Drivers (community)
 
@@ -99,4 +99,4 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
