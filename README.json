@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "rasa",
           "description": "Open-source machine learning framework to automate text-and voice-based conversations.",
           "children": [],
           "repo_info": {
@@ -15,12 +15,12 @@
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21302
+            "stars": 21304
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-ml",
           "description": "TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-studio",
           "description": "TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.",
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-cti",
           "description": "TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database and find new insights about cyber threats.",
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "interface-jetbrains",
           "description": "Open-source automated programming assistant with runtime-aware and context-aware functionality.",
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-bio",
           "description": "TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical data in one single place.",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-loader",
           "description": "An open-source data migrator for loading data into TypeDB at scale.",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "blitz-orm",
           "description": "Blitz-ORM is an Object Relational Mapper written in TypeScript and compatible with TypeDB.",
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "type-bridge",
           "description": "A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.",
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-skills",
           "description": "A collection of agent skills, including a TypeDB skill for agent workflows.",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "go-typeql",
           "description": "A Go ORM for TypeDB 3.x with type-safe CRUD, query building, migrations, and code generation.",
           "children": [],
           "repo_info": {
@@ -176,7 +176,70 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "typedb-driver-examples",
+          "description": "This repository includes examples that showcase usage of TypeDB Drivers in reading from and writing to a TypeDB database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147818615,
+            "language": "HTML",
+            "last_commit": "2025-10-14T21:38:27Z",
+            "owner": "typedb",
+            "repo": "typedb-driver-examples",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Example projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typedb-driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166978103,
+            "language": "Rust",
+            "last_commit": "2026-08-21T17:18:14Z",
+            "owner": "typedb",
+            "repo": "typedb-driver",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Client Drivers (official)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TypeDBClient.jl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309794049,
+            "language": "Julia",
+            "last_commit": "2022-03-30T21:23:57Z",
+            "owner": "Humans-of-Julia",
+            "repo": "TypeDBClient.jl",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Client Drivers (community)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "typeql-plugin-vscode",
           "description": null,
           "children": [],
           "repo_info": {
@@ -191,7 +254,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typeql-plugin-jetbrains",
           "description": null,
           "children": [],
           "repo_info": {
@@ -206,7 +269,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "typeql-plugin-emacs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -224,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:04:52.455Z",
+    "last_updated": "2026-08-24T14:44:22.172Z",
     "original_repository": "typedb/typedb-awesome",
     "original_repository_id": 321329939,
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
