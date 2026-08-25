@@ -99,4 +99,4 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
