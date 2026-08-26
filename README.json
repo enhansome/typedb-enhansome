@@ -15,7 +15,7 @@
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21304
+            "stars": 21303
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 167981013,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T11:13:25Z",
+            "last_commit": "2026-08-25T12:00:18Z",
             "owner": "typedb",
             "repo": "typedb-studio",
             "stars": 232
@@ -287,7 +287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:24.442Z",
+    "last_updated": "2026-08-26T03:06:46.878Z",
     "original_repository": "typedb/typedb-awesome",
     "original_repository_id": 321329939,
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
