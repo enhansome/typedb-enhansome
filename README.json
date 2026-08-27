@@ -15,7 +15,7 @@
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21303
+            "stars": 21309
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 167981013,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T12:00:18Z",
+            "last_commit": "2026-08-27T06:55:10Z",
             "owner": "typedb",
             "repo": "typedb-studio",
             "stars": 232
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 1152639343,
             "language": "Go",
-            "last_commit": "2026-08-19T09:20:46Z",
+            "last_commit": "2026-08-27T10:01:00Z",
             "owner": "CaliLuke",
             "repo": "go-typeql",
             "stars": 4
@@ -287,9 +287,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:06:46.878Z",
-    "original_repository": "typedb/typedb-awesome",
-    "original_repository_id": 321329939,
+    "last_updated": "2026-08-27T12:12:56.821Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 321329939,
+      "language": null,
+      "last_commit": "2026-08-10T16:01:19Z",
+      "owner": "typedb",
+      "repo": "typedb-awesome",
+      "stars": 86
+    },
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
     "enhanced_repository": "enhansome/typedb-enhansome",
     "enhanced_repository_description": null,
