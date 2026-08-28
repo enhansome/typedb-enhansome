@@ -15,8 +15,9 @@
             "last_commit": "2026-07-24T07:39:04Z",
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21309
-          }
+            "stars": 21311
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "typedb",
             "repo": "typedb-ml",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 167981013,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T06:55:10Z",
+            "last_commit": "2026-08-28T12:45:26Z",
             "owner": "typedb",
             "repo": "typedb-studio",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "typedb-osi",
             "repo": "typedb-cti",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "sourceplusplus",
             "repo": "interface-jetbrains",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "typedb-osi",
             "repo": "typedb-bio",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "typedb-osi",
             "repo": "typedb-loader",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Blitzapps",
             "repo": "blitz-orm",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ds1sqe",
             "repo": "type-bridge",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "typedb",
             "repo": "typedb-skills",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "CaliLuke",
             "repo": "go-typeql",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         }
       ],
       "title": "Open source projects using TypeDB"
@@ -187,7 +198,8 @@
             "owner": "typedb",
             "repo": "typedb-driver-examples",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         }
       ],
       "title": "Example projects"
@@ -208,7 +220,8 @@
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         }
       ],
       "title": "Client Drivers (official)"
@@ -229,7 +242,8 @@
             "owner": "Humans-of-Julia",
             "repo": "TypeDBClient.jl",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         }
       ],
       "title": "Client Drivers (community)"
@@ -250,7 +264,8 @@
             "owner": "typedb-osi",
             "repo": "typeql-plugin-vscode",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "typedb-osi",
             "repo": "typeql-plugin-jetbrains",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         },
         {
           "node_type": "item",
@@ -280,14 +296,15 @@
             "owner": "typedb-osi",
             "repo": "typeql-plugin-emacs",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T13:56:24.956Z"
         }
       ],
       "title": "IDE and editor support"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:26:31.837Z",
+    "last_updated": "2026-08-28T13:56:24.956Z",
     "original_repository_info": {
       "archived": false,
       "id": 321329939,
