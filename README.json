@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+            "homepage": "https://rasa.com/docs/rasa/",
             "id": 70908208,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:39:04Z",
+            "open_issues": 153,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21311
+            "stars": 21311,
+            "topics": [
+              "bot",
+              "bot-framework",
+              "botkit",
+              "bots",
+              "chatbot",
+              "chatbots",
+              "chatbots-framework",
+              "conversation-driven-development",
+              "conversational-agents",
+              "conversational-ai",
+              "conversational-bots",
+              "machine-learning",
+              "machine-learning-library",
+              "mitie",
+              "natural-language-processing",
+              "nlp",
+              "nlu",
+              "rasa",
+              "spacy",
+              "wit"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -26,12 +52,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TypeDB-ML is the Machine Learning integrations library for TypeDB",
+            "homepage": "https://vaticle.com",
             "id": 149015524,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-18T17:08:08Z",
+            "open_issues": 12,
             "owner": "typedb",
             "repo": "typedb-ml",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "geometric-deep-learning",
+              "grakn",
+              "graph",
+              "graph-convolutional-networks",
+              "graph-networks",
+              "graphs",
+              "graql",
+              "knowledge-graph",
+              "knowledge-graph-completion",
+              "knowledgebase",
+              "link-prediction",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "python",
+              "relational-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -42,12 +93,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeDB Studio: An interactive visual environment for TypeDB",
+            "homepage": "https://studio.typedb.com",
             "id": 167981013,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:45:26Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-28T16:35:06Z",
+            "open_issues": 49,
             "owner": "typedb",
             "repo": "typedb-studio",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "graph-visualization",
+              "ide",
+              "knowledge-base",
+              "network",
+              "network-analysis",
+              "network-visualization",
+              "schema",
+              "schema-design",
+              "typedb",
+              "typeql",
+              "visualisation"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -58,12 +126,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Threat Intelligence Platform",
+            "homepage": null,
             "id": 435954538,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-08T11:00:29Z",
+            "open_issues": 0,
             "owner": "typedb-osi",
             "repo": "typedb-cti",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "cti",
+              "cyber",
+              "cybersecurity",
+              "intelligence",
+              "osint",
+              "security",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -74,12 +155,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The continuous feedback plugin for JetBrains IDEs",
+            "homepage": "https://sourceplus.plus",
             "id": 173253271,
             "language": "Kotlin",
-            "last_commit": "2026-08-07T09:56:54Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:53:50Z",
+            "open_issues": 13,
             "owner": "sourceplusplus",
             "repo": "interface-jetbrains",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "continuous-feedback",
+              "debugging",
+              "feedback-driven-development",
+              "ide",
+              "idea-plugin",
+              "intellij",
+              "intellij-plugin",
+              "jetbrains-plugin",
+              "monitoring",
+              "observability",
+              "skywalking"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -90,12 +188,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeDB Bio: Biomedical Knowledge Graph",
+            "homepage": null,
             "id": 256554543,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-02T23:29:55Z",
+            "open_issues": 2,
             "owner": "typedb-osi",
             "repo": "typedb-bio",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "bioinformatics",
+              "biomedical",
+              "drug-discovery",
+              "knowledge-base",
+              "knowledge-discovery",
+              "knowledge-graph"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -106,12 +216,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeDB Loader - Data Migration Tool for TypeDB",
+            "homepage": "https://github.com/typedb-osi/typedb-loader",
             "id": 299246085,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-15T17:33:07Z",
+            "open_issues": 13,
             "owner": "typedb-osi",
             "repo": "typedb-loader",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "data-migration-tool",
+              "data-migrator",
+              "grami",
+              "knowledge-base",
+              "knowledge-graph",
+              "loader",
+              "migration",
+              "typedb",
+              "typedbloader"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -122,12 +247,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 598063045,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-25T10:40:25Z",
+            "open_issues": 6,
             "owner": "Blitzapps",
             "repo": "blitz-orm",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "database",
+              "graph-database",
+              "orm"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -138,12 +272,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.",
+            "homepage": "https://pypi.org/project/type-bridge/",
             "id": 1085407082,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-11T00:15:44Z",
+            "open_issues": 4,
             "owner": "ds1sqe",
             "repo": "type-bridge",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "graphdatabase",
+              "graphdb",
+              "orm",
+              "pydantic",
+              "python",
+              "typedb",
+              "typeql"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -154,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1273508551,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-18T15:42:07Z",
+            "open_issues": 0,
             "owner": "typedb",
             "repo": "typedb-skills",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -170,12 +322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1152639343,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:01:00Z",
+            "open_issues": 18,
             "owner": "CaliLuke",
             "repo": "go-typeql",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         }
@@ -192,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeDB Driver Example Projects and Tutorials",
+            "homepage": "https://typedb.com",
             "id": 147818615,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-14T21:38:27Z",
+            "open_issues": 8,
             "owner": "typedb",
             "repo": "typedb-driver-examples",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         }
@@ -214,12 +376,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeDB Drivers for Rust, Python, Java, Node.js, C, C++, and C#.",
+            "homepage": "https://typedb.com",
             "id": 166978103,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T17:18:14Z",
+            "open_issues": 77,
             "owner": "typedb",
             "repo": "typedb-driver",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "c",
+              "cpp",
+              "java",
+              "nodejs",
+              "python",
+              "rust",
+              "typedb",
+              "typedb-client",
+              "typedb-driver",
+              "typeql"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         }
@@ -236,12 +414,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A client interface to read from and write to the TypeDB Knowledge Graph",
+            "homepage": null,
             "id": 309794049,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2022-03-30T21:23:57Z",
+            "open_issues": 5,
             "owner": "Humans-of-Julia",
             "repo": "TypeDBClient.jl",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "julia",
+              "julia-language",
+              "julialang",
+              "typedb",
+              "typedb-client",
+              "typedb-osi",
+              "typeql",
+              "vaticle"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         }
@@ -258,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeQL plugin for Visual Studio Code",
+            "homepage": null,
             "id": 365574602,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-30T16:59:17Z",
+            "open_issues": 3,
             "owner": "typedb-osi",
             "repo": "typeql-plugin-vscode",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -274,12 +471,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeQL plugin for JetBrains",
+            "homepage": null,
             "id": 365569922,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-02-13T20:48:55Z",
+            "open_issues": 5,
             "owner": "typedb-osi",
             "repo": "typeql-plugin-jetbrains",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         },
@@ -290,12 +492,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Major mode that provides syntax highlighting and basic completion for TypeQL",
+            "homepage": null,
             "id": 230282767,
             "language": "Emacs Lisp",
+            "license": "MIT",
             "last_commit": "2025-08-03T12:41:11Z",
+            "open_issues": 1,
             "owner": "typedb-osi",
             "repo": "typeql-plugin-emacs",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "emacs",
+              "syntax-highlighting",
+              "typedb",
+              "typedb-osi",
+              "typeql",
+              "vaticle"
+            ]
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
         }
@@ -304,15 +518,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:56:24.956Z",
+    "last_updated": "2026-08-29T04:59:40.446Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
+      "homepage": null,
       "id": 321329939,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-10T16:01:19Z",
+      "open_issues": 0,
       "owner": "typedb",
       "repo": "typedb-awesome",
-      "stars": 86
+      "stars": 86,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "b77667a0cf31d71d6ae7c89241c9606c3333cfa6",
     "enhanced_repository": "enhansome/typedb-enhansome",
