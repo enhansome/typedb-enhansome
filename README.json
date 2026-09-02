@@ -160,7 +160,7 @@
             "id": 173253271,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T21:53:50Z",
+            "last_commit": "2026-09-01T12:40:29Z",
             "open_issues": 13,
             "owner": "sourceplusplus",
             "repo": "interface-jetbrains",
@@ -381,7 +381,7 @@
             "id": 166978103,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-21T17:18:14Z",
+            "last_commit": "2026-09-01T15:28:17Z",
             "open_issues": 77,
             "owner": "typedb",
             "repo": "typedb-driver",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:25:50.448Z",
+    "last_updated": "2026-09-02T06:54:16.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",

@@ -30,7 +30,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 * [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) ⭐ 232 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-28 - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
 * [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) ⭐ 169 | 🐛 0 | 🌐 Python | 📅 2026-01-08 - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database
   and find new insights about cyber threats.
-* [`Source++`](https://github.com/sourceplusplus/Assistant) ⭐ 92 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-28 - Open-source automated programming assistant with runtime-aware and context-aware functionality.
+* [`Source++`](https://github.com/sourceplusplus/Assistant) ⭐ 92 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-01 - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 * [`TypeDB OSI - Biomedical Knowledge Graph`](https://github.com/typedb-osi/typedb-bio) ⭐ 90 | 🐛 2 | 🌐 Python | 📅 2025-06-02 - TypeDB Bio is an open source biomedical knowledge graph providing biomedical researchers an intuitive way to query interconnected and heterogeneous biomedical
   data in one single place.
 * [`TypeDB Loader`](https://github.com/typedb-osi/typedb-loader) ⭐ 67 | 🐛 13 | 🌐 Java | 📅 2024-03-15 - An open-source data migrator for loading data into TypeDB at scale.
@@ -74,7 +74,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Client Drivers (official)
 
-* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 66 | 🐛 77 | 🌐 Rust | 📅 2026-08-21
+* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 66 | 🐛 77 | 🌐 Rust | 📅 2026-09-01
 
 ## Client Drivers (community)
 
@@ -99,4 +99,4 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
