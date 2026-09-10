@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:39:04Z",
-            "open_issues": 153,
+            "open_issues": 154,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21319,
+            "stars": 21320,
             "topics": [
               "bot",
               "bot-framework",
@@ -98,8 +98,8 @@
             "id": 167981013,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-28T16:35:06Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-09T19:17:15Z",
+            "open_issues": 49,
             "owner": "typedb",
             "repo": "typedb-studio",
             "stars": 232,
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "typedb-osi",
             "repo": "typedb-cti",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "cti",
               "cyber",
@@ -382,10 +382,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T15:28:17Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "typedb",
             "repo": "typedb-driver",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "c",
               "cpp",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:09:44.848Z",
+    "last_updated": "2026-09-10T07:06:10.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
