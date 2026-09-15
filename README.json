@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:39:04Z",
-            "open_issues": 153,
+            "open_issues": 152,
             "owner": "RasaHQ",
             "repo": "rasa",
             "stars": 21324,
@@ -99,7 +99,7 @@
             "language": "TypeScript",
             "license": "MPL-2.0",
             "last_commit": "2026-09-11T12:27:28Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "typedb",
             "repo": "typedb-studio",
             "stars": 232,
@@ -277,7 +277,7 @@
             "id": 1085407082,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-14T05:42:44Z",
+            "last_commit": "2026-09-14T23:11:13Z",
             "open_issues": 3,
             "owner": "ds1sqe",
             "repo": "type-bridge",
@@ -382,7 +382,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T20:16:23Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 68,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:40:04.490Z",
+    "last_updated": "2026-09-15T07:22:05.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
@@ -530,7 +530,7 @@
       "open_issues": 0,
       "owner": "typedb",
       "repo": "typedb-awesome",
-      "stars": 86,
+      "stars": 87,
       "topics": [
         "awesome",
         "awesome-list"
