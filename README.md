@@ -74,7 +74,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Client Drivers (official)
 
-* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 68 | 🐛 77 | 🌐 Rust | 📅 2026-09-10
+* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 68 | 🐛 76 | 🌐 Rust | 📅 2026-09-16
 
 ## Client Drivers (community)
 
@@ -99,4 +99,4 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

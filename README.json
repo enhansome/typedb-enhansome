@@ -381,8 +381,8 @@
             "id": 166978103,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T20:16:23Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-16T01:49:38Z",
+            "open_issues": 76,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 68,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:22:05.728Z",
+    "last_updated": "2026-09-16T07:22:43.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
