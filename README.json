@@ -19,7 +19,7 @@
             "open_issues": 153,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21326,
+            "stars": 21328,
             "topics": [
               "bot",
               "bot-framework",
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "typedb-osi",
             "repo": "typedb-cti",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "cti",
               "cyber",
@@ -382,7 +382,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T20:32:10Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 68,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:26:48.331Z",
+    "last_updated": "2026-09-23T07:29:25.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
@@ -530,7 +530,7 @@
       "open_issues": 0,
       "owner": "typedb",
       "repo": "typedb-awesome",
-      "stars": 87,
+      "stars": 88,
       "topics": [
         "awesome",
         "awesome-list"
