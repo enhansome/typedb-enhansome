@@ -310,7 +310,7 @@
             "open_issues": 0,
             "owner": "typedb",
             "repo": "typedb-skills",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T13:56:24.956Z"
@@ -327,8 +327,8 @@
             "id": 1152639343,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-17T02:24:49Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-24T04:49:01Z",
+            "open_issues": 19,
             "owner": "CaliLuke",
             "repo": "go-typeql",
             "stars": 4,
@@ -381,8 +381,8 @@
             "id": 166978103,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T20:32:10Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-23T13:55:00Z",
+            "open_issues": 76,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 68,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:29:25.774Z",
+    "last_updated": "2026-09-24T07:22:06.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
