@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:39:04Z",
-            "open_issues": 153,
+            "open_issues": 154,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21328,
+            "stars": 21331,
             "topics": [
               "bot",
               "bot-framework",
@@ -327,7 +327,7 @@
             "id": 1152639343,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T04:49:01Z",
+            "last_commit": "2026-09-25T05:56:01Z",
             "open_issues": 19,
             "owner": "CaliLuke",
             "repo": "go-typeql",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:22:06.334Z",
+    "last_updated": "2026-09-25T07:16:35.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
