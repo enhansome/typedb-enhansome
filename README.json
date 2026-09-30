@@ -98,8 +98,8 @@
             "id": 167981013,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-11T12:27:28Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-29T13:31:42Z",
+            "open_issues": 53,
             "owner": "typedb",
             "repo": "typedb-studio",
             "stars": 232,
@@ -381,8 +381,8 @@
             "id": 166978103,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T13:55:00Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-29T14:19:01Z",
+            "open_issues": 77,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 68,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:00:51.793Z",
+    "last_updated": "2026-09-30T08:08:59.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
