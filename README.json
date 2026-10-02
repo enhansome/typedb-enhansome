@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21334,
+            "stars": 21335,
             "topics": [
               "bot",
               "bot-framework",
@@ -281,7 +281,7 @@
             "open_issues": 3,
             "owner": "ds1sqe",
             "repo": "type-bridge",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "graphdatabase",
               "graphdb",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T08:28:51.911Z",
+    "last_updated": "2026-10-02T08:04:31.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
