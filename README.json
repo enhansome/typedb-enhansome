@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21335,
+            "stars": 21340,
             "topics": [
               "bot",
               "bot-framework",
@@ -98,7 +98,7 @@
             "id": 167981013,
             "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-29T13:31:42Z",
+            "last_commit": "2026-10-02T18:19:05Z",
             "open_issues": 53,
             "owner": "typedb",
             "repo": "typedb-studio",
@@ -164,7 +164,7 @@
             "open_issues": 13,
             "owner": "sourceplusplus",
             "repo": "interface-jetbrains",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "continuous-feedback",
               "debugging",
@@ -372,7 +372,7 @@
         {
           "node_type": "item",
           "title": "typedb-driver",
-          "description": null,
+          "description": "typedb/typedb-driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -382,7 +382,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-29T14:19:01Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 68,
@@ -410,7 +410,7 @@
         {
           "node_type": "item",
           "title": "TypeDBClient.jl",
-          "description": null,
+          "description": "Humans-of-Julia/TypeDBClient.jl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -446,7 +446,7 @@
         {
           "node_type": "item",
           "title": "typeql-plugin-vscode",
-          "description": null,
+          "description": "typedb-osi/typeql-plugin-vscode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -467,7 +467,7 @@
         {
           "node_type": "item",
           "title": "typeql-plugin-jetbrains",
-          "description": null,
+          "description": "typedb-osi/typeql-plugin-jetbrains",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -488,7 +488,7 @@
         {
           "node_type": "item",
           "title": "typeql-plugin-emacs",
-          "description": null,
+          "description": "typedb-osi/typeql-plugin-emacs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:04:31.807Z",
+    "last_updated": "2026-10-03T05:14:53.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
