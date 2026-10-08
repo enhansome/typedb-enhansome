@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:39:04Z",
-            "open_issues": 154,
+            "open_issues": 156,
             "owner": "RasaHQ",
             "repo": "rasa",
             "stars": 21343,
@@ -160,7 +160,7 @@
             "id": 173253271,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T23:26:10Z",
+            "last_commit": "2026-10-08T04:05:22Z",
             "open_issues": 13,
             "owner": "sourceplusplus",
             "repo": "interface-jetbrains",
@@ -277,7 +277,7 @@
             "id": 1085407082,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-07T06:38:17Z",
+            "last_commit": "2026-10-08T08:32:04Z",
             "open_issues": 3,
             "owner": "ds1sqe",
             "repo": "type-bridge",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T08:16:16.653Z",
+    "last_updated": "2026-10-08T08:32:29.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
