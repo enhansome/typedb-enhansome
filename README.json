@@ -277,7 +277,7 @@
             "id": 1085407082,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-08T11:15:30Z",
+            "last_commit": "2026-10-12T00:12:13Z",
             "open_issues": 3,
             "owner": "ds1sqe",
             "repo": "type-bridge",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:25:17.653Z",
+    "last_updated": "2026-10-12T08:46:34.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
