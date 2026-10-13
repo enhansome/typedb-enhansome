@@ -19,7 +19,7 @@
             "open_issues": 158,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21346,
+            "stars": 21348,
             "topics": [
               "bot",
               "bot-framework",
@@ -164,7 +164,7 @@
             "open_issues": 13,
             "owner": "sourceplusplus",
             "repo": "interface-jetbrains",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "continuous-feedback",
               "debugging",
@@ -215,13 +215,13 @@
           "description": "An open-source data migrator for loading data into TypeDB at scale.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "TypeDB Loader - Data Migration Tool for TypeDB",
             "homepage": "https://github.com/typedb-osi/typedb-loader",
             "id": 299246085,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2024-03-15T17:33:07Z",
+            "last_commit": "2026-10-12T21:44:20Z",
             "open_issues": 13,
             "owner": "typedb-osi",
             "repo": "typedb-loader",
@@ -278,7 +278,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-12T00:12:13Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "ds1sqe",
             "repo": "type-bridge",
             "stars": 25,
@@ -385,7 +385,7 @@
             "open_issues": 77,
             "owner": "typedb",
             "repo": "typedb-driver",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "c",
               "cpp",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:46:34.466Z",
+    "last_updated": "2026-10-13T09:04:38.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
