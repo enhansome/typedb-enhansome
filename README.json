@@ -19,7 +19,7 @@
             "open_issues": 159,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21353,
+            "stars": 21354,
             "topics": [
               "bot",
               "bot-framework",
@@ -277,7 +277,7 @@
             "id": 1085407082,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-17T13:11:27Z",
+            "last_commit": "2026-10-20T06:34:29Z",
             "open_issues": 6,
             "owner": "ds1sqe",
             "repo": "type-bridge",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:26:04.674Z",
+    "last_updated": "2026-10-20T07:16:44.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
