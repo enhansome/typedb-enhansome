@@ -102,7 +102,7 @@
             "open_issues": 55,
             "owner": "typedb",
             "repo": "typedb-studio",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "graph-visualization",
               "ide",
@@ -131,7 +131,7 @@
             "id": 435954538,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-01-08T11:00:29Z",
+            "last_commit": "2026-10-29T11:48:56Z",
             "open_issues": 0,
             "owner": "typedb-osi",
             "repo": "typedb-cti",
@@ -382,7 +382,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T20:02:50Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "typedb",
             "repo": "typedb-driver",
             "stars": 70,
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:10:29.008Z",
+    "last_updated": "2026-10-30T08:14:05.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
