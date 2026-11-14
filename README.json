@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:39:04Z",
-            "open_issues": 160,
+            "open_issues": 161,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21384,
+            "stars": 21383,
             "topics": [
               "bot",
               "bot-framework",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T09:13:14.470Z",
+    "last_updated": "2026-11-14T08:43:00.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
