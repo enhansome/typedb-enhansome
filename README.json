@@ -19,7 +19,7 @@
             "open_issues": 161,
             "owner": "RasaHQ",
             "repo": "rasa",
-            "stars": 21383,
+            "stars": 21386,
             "topics": [
               "bot",
               "bot-framework",
@@ -518,7 +518,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T08:54:45.565Z",
+    "last_updated": "2026-11-16T09:07:27.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome TypeDB frameworks libraries, software and resources.",
