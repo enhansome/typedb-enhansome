@@ -25,9 +25,9 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Open source projects using TypeDB
 
-* [`Rasa`](https://github.com/RasaHQ/rasa) ⭐ 21,393 | 🐛 161 | 🌐 Python | 📅 2026-07-24 - Open-source machine learning framework to automate text-and voice-based conversations.
+* [`Rasa`](https://github.com/RasaHQ/rasa) ⭐ 21,395 | 🐛 161 | 🌐 Python | 📅 2026-07-24 - Open-source machine learning framework to automate text-and voice-based conversations.
 * [`TypeDB-ML`](https://github.com/vaticle/typedb-ml) ⚠️ Archived - TypeDB-ML provides tools to enable graph algorithms and machine learning with TypeDB.
-* [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) ⭐ 233 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-17 - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
+* [`TypeDB Studio - IDE for TypeDB`](https://github.com/vaticle/typedb-studio) ⭐ 233 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-18 - TypeDB Studio is an Integrated Development Environment for TypeDB for performing knowledge engineering.
 * [`TypeDB OSI - Cyber Threat Intelligence`](https://github.com/typedb-osi/typedb-cti) ⭐ 168 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - TypeDB CTI is an open source threat intelligence platform enabling threat intel professionals to bring together their disparate CTI information into one database
   and find new insights about cyber threats.
 * [`Source++`](https://github.com/sourceplusplus/Assistant) ⭐ 92 | 🐛 13 | 🌐 Kotlin | 📅 2026-11-07 - Open-source automated programming assistant with runtime-aware and context-aware functionality.
@@ -74,7 +74,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ## Client Drivers (official)
 
-* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 70 | 🐛 81 | 🌐 Rust | 📅 2026-11-17
+* [`Rust, Python, Java, Node.js and C`](https://github.com/vaticle/typedb-driver) ⭐ 70 | 🐛 80 | 🌐 Rust | 📅 2026-11-18
 
 ## Client Drivers (community)
 
@@ -99,4 +99,4 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
